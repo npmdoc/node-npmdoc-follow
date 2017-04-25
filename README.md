@@ -1,4 +1,7 @@
-# api documentation for  [follow (v0.12.1)](http://github.com/iriscouch/follow)  [![npm package](https://img.shields.io/npm/v/npmdoc-follow.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-follow) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-follow.svg)](https://travis-ci.org/npmdoc/node-npmdoc-follow)
+# npmdoc-follow
+
+#### basic api documentation for  [follow (v0.12.1)](http://github.com/iriscouch/follow)  [![npm package](https://img.shields.io/npm/v/npmdoc-follow.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-follow) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-follow.svg)](https://travis-ci.org/npmdoc/node-npmdoc-follow)
+
 #### Extremely robust, fault-tolerant CouchDB changes follower
 
 [![NPM](https://nodei.co/npm/follow.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/follow)
